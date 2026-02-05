@@ -140,8 +140,4 @@ grihf-frontend_capstone_starter_code/
 
 StayHealthy Inc. - Improving Healthcare Access in Remote Areas
 
----
-
-**Estimated Development Time**: 10 minutes per module
-
 _© 2026 StayHealthy Inc. All Rights Reserved._
